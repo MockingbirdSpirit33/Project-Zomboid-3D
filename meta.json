@@ -1,0 +1,23 @@
+{
+  "repo": "project-zomboid-3d",
+  "product": "Project Zomboid 3D",
+  "kind": "utility",
+  "install_type": "mylunora",
+  "install_url": "https://mylunora.art",
+  "batch": "part4",
+  "format": "license-md-mylunora-v3-game-copy",
+  "category": "game-optimization",
+  "topics": [
+    "project-zomboid-3d",
+    "zomboid-3d-mod",
+    "3d-view-mod",
+    "project-zomboid",
+    "survival-mods",
+    "3d-camera",
+    "changed-view",
+    "windows-gaming",
+    "zomboid-overhaul",
+    "mod-download"
+  ],
+  "site": "mylunora.art"
+}
